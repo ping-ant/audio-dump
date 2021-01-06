@@ -1,0 +1,17 @@
+{
+  "name": "audio-dump",
+  "version": "1.0.0",
+  "description": "Move and rename audio file from bilibili download folder.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zlp",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1",
+    "progress": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
